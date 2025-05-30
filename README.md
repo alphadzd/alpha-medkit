@@ -1,6 +1,6 @@
 # Alpha Medkit
 
-![Alpha Medkit Preview]([https://media.discordapp.net/attachments/1374525623015313610/1375271972665294969/image.png](https://media.discordapp.net/attachments/1374525623015313610/1375271972665294969/image.png?ex=6839a715&is=68385595&hm=d9cefb37e95de29b3e48109a4fedd21e0ab1b850cbdf90689328224a646a4dbf&format=webp&quality=lossless&))
+![Alpha Medkit Preview](https://media.discordapp.net/attachments/1374525623015313610/1375271972665294969/image.png](https://media.discordapp.net/attachments/1374525623015313610/1375271972665294969/image.png?ex=6839a715&is=68385595&hm=d9cefb37e95de29b3e48109a4fedd21e0ab1b850cbdf90689328224a646a4dbf&format=webp&quality=lossless&)
 
 ## وصف
 نظام إحياء متقدم للاعبين في FiveM باستخدام إطار عمل QBCore. يتيح للاعبين إحياء اللاعبين الموتى باستخدام حقيبة الإسعافات الأولية.
